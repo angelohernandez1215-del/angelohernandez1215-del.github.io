@@ -1,0 +1,5 @@
+# Original full-size files (the site uses the optimized copies in assets/img)
+/*.png
+/*.jpg
+# Local tooling
+/tools/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://angelohernandez1215-del.github.io/sitemap.xml
